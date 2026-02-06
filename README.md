@@ -8,9 +8,9 @@
 ---
 
 ### 🧑‍💻 
-- 🏢 Full-time Senior Software Developer working on Public Safety Solutions. 
+- 🏢 Full-time Senior Lead desiging Data Pipelines for Fintech. 
 - 🔭 I’m currently working on SideProject **[<a href="https://github.com/yogeshwar-b/Layerboard">Layerboard</a>]** - Ground-up implementation of Vector Whiteboard application with support for layers.
-- 💬 Ask me about **C#, JavaScript, React and Ofcourse Designing Algorithms**
+- 💬 Ask me about **C#, JavaScript, React and Ofcourse Designing Algorithms,Systems.**
 - 📫 How to reach me: **[Check Below⬇️]**
 - ⚡ Random fact about me: *I can learn any kind of tech in less than a week. 😄*
 
